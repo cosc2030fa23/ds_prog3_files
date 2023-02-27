@@ -1,2 +1,13 @@
-# ds_prog3_files
-files needed for program 3
+Program #3
+
+Name:
+
+COSC 2030
+
+Competing: YES or NO
+
+Best run time:
+
+Compile line:
+
+Anything that doesn't work:
